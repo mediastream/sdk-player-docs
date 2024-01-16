@@ -31,3 +31,4 @@ android/MediastreamSample/google-services.json
 
 # Android Profiling
 android/MediastreamSample/*.hprof
+apple/MediastreamSample/Pods/*
