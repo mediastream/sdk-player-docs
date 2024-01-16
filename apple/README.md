@@ -177,4 +177,4 @@ In the following example, you'll find an application showcasing various uses of 
 
 Remember do a `pod install` before run the example.
 
-[Sample](/apple/MediastreamSampleApp)
+[Sample](/apple/Sample)
