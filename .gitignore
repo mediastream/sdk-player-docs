@@ -1,34 +1,34 @@
 # Gradle files
-android/MediastreamSample/.gradle/
-android/MediastreamSample/build/
+android/MediastreamSampleApp/.gradle/
+android/MediastreamSampleApp/build/
 
 # Local configuration file (sdk path, etc)
-android/MediastreamSample/local.properties
+android/MediastreamSampleApp/local.properties
 
 # Log/OS Files
-android/MediastreamSample/*.log
+android/MediastreamSampleApp/*.log
 
 # Android Studio generated files and folders
-android/MediastreamSample/captures/
-android/MediastreamSample/.externalNativeBuild/
-android/MediastreamSample/.cxx/
-android/MediastreamSample/*.apk
-android/MediastreamSample/output.json
+android/MediastreamSampleApp/captures/
+android/MediastreamSampleApp/.externalNativeBuild/
+android/MediastreamSampleApp/.cxx/
+android/MediastreamSampleApp/*.apk
+android/MediastreamSampleApp/output.json
 
 # IntelliJ
-android/MediastreamSample/*.iml
-android/MediastreamSample/.idea/
-android/MediastreamSample/misc.xml
-android/MediastreamSample/deploymentTargetDropDown.xml
-android/MediastreamSample/render.experimental.xml
+android/MediastreamSampleApp/*.iml
+android/MediastreamSampleApp/.idea/
+android/MediastreamSampleApp/misc.xml
+android/MediastreamSampleApp/deploymentTargetDropDown.xml
+android/MediastreamSampleApp/render.experimental.xml
 
 # Keystore files
-android/MediastreamSample/*.jks
-android/MediastreamSample/*.keystore
+android/MediastreamSampleApp/*.jks
+android/MediastreamSampleApp/*.keystore
 
 # Google Services (e.g. APIs or Firebase)
-android/MediastreamSample/google-services.json
+android/MediastreamSampleApp/google-services.json
 
 # Android Profiling
-android/MediastreamSample/*.hprof
-apple/MediastreamSample/Pods/*
+android/MediastreamSampleApp/*.hprof
+apple/MediastreamSampleApp/Pods/*
