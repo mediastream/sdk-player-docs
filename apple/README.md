@@ -170,3 +170,11 @@ The Mediastream SDK allows you to listen to various events emitted by the player
 
 
 These events allow you to respond dynamically to various states and actions during playback.
+
+# Examples
+
+In the following example, you'll find an application showcasing various uses of the Mediastream SDK for iOS. This app provides practical examples of key functionalities, including audio playback, video playback, audio as a service, casting, and more. Make sure you enter the IDs corresponding to your ACCOUNT_ID and CONTENT_ID and enjoy.
+
+Remember do a `pod install` before run the example.
+
+[Sample](/apple/MediastreamSampleApp)
