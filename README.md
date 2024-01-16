@@ -65,7 +65,6 @@ Happy coding!
 
 # SDKs Documentation
 
-- [Web](https://platform.mediastre.am/developer)
 - [Android](/android/README.md)
 - [Apple](/apple/README.md)
 - [Roku](/roku/README.md)
